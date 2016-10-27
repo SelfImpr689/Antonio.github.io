@@ -90,7 +90,7 @@ var index1Obj = {
 	
    //进入主页
 	go2Home: function(){
-		  window.location.replace("/index1.htm");
+		  window.location.replace("/index.htm");
 	},
 	
 	go2FriendPage: function(navID){
