@@ -90,7 +90,7 @@ var index1Obj = {
 	
    //进入主页
 	go2Home: function(){
-		  window.location.replace("/survivor/index1.jsp");
+		  window.location.replace("/index1.htm");
 	},
 	
 	go2FriendPage: function(navID){
