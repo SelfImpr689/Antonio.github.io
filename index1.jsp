@@ -1,12 +1,8 @@
-<%@ page language="java" import="java.util.*" pageEncoding="utf-8"%>
-<%
-String path = request.getContextPath();
-String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/";
-%>
+
 <!DOCTYPE html>
 <html>
 	<head>
-	    <base href="<%=basePath%>">
+	    
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
 		<meta name="apple-mobile-web-app-capable" content="yes"/>
